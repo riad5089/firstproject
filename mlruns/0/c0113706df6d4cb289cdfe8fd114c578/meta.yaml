@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/c0113706df6d4cb289cdfe8fd114c578/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0113706df6d4cb289cdfe8fd114c578
+run_name: entertaining-fawn-5
+run_uuid: c0113706df6d4cb289cdfe8fd114c578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705594687139
+status: 1
+tags: []
+user_id: Abdur rahim nishad
